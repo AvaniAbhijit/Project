@@ -1,3 +1,7 @@
+#Task for student
+#Task 1: Slower Ball Speed – Reduce the ball speed to make it easier.
+#Task 2: Increase Paddle Size – Make the paddle wider for better control.
+
 import cv2
 import numpy as np
 import mediapipe as mp
