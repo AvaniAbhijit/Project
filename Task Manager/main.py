@@ -1,3 +1,13 @@
+#Task for student
+#Task 1: Add a "Clear All Tasks" Button
+#Goal: Implement a button that deletes all tasks at once from both the UI and the database.
+
+#Steps to complete:
+#Add an "X" button in the UI (probably in the toolbar).
+#Implement a function in MainApp to remove all tasks from the list.
+#Call a function in database.py to delete all tasks from the database.
+
+
 from kivymd.app import MDApp
 from kivymd.uix.dialog import MDDialog
 from kivymd.uix.list import TwoLineAvatarIconListItem, ILeftBodyTouch
